@@ -1,6 +1,6 @@
 Name: btrfsmaintenance
 Version: 0.5
-Release: 1
+Release: 2
 Summary: Scripts for btrfs maintenance tasks
 BuildArch: noarch
  
