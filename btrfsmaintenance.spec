@@ -1,3 +1,4 @@
+%define _empty_manifest_terminate_build 0
 Name: btrfsmaintenance
 Version: 0.5.1
 Release: 1
