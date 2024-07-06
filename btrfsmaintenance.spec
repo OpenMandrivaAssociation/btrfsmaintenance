@@ -1,6 +1,6 @@
 %define _empty_manifest_terminate_build 0
 Name: btrfsmaintenance
-Version: 0.5.1
+Version: 0.5.2
 Release: 1
 Summary: Scripts for btrfs maintenance tasks
 BuildArch: noarch
